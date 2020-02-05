@@ -1,4 +1,4 @@
-# AppDelegateTemplate <img width="188" alt="Screen Shot 2020-02-05 at 4 06 29 PM" src="https://user-images.githubusercontent.com/21044119/73883215-8c242d80-4831-11ea-824c-8991d495d097.png">
+# AppDelegateTemplate <img width="48" alt="Screen Shot 2020-02-05 at 4 08 37 PM" src="https://user-images.githubusercontent.com/21044119/73883390-dad1c780-4831-11ea-8859-5adaaf156cd0.png">
 
 #### Standard AppDelegate.swift file template for Xcode 11.0+
 

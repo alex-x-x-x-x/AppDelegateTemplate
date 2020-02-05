@@ -4,7 +4,7 @@
 
 ## Installation:
 Run `sh installnewtemplate.sh`
-- This command installs the template into your Xcode where you'll be able to select it and use it in your projects in lieu of the newly updated `AppDelegate.swift` that features `SceneDelegate` boilerplate code. 
+- This command installs the template into your Xcode application where you'll be able to select it & use it in your projects in lieu of the newly updated `AppDelegate.swift` that features `SceneDelegate` boilerplate code on Xcode 11.  
 
 ## Usage:
 - To use this file as your standard `AppDelegate.swift` file without the SceneDelegate boilerplate do the following:

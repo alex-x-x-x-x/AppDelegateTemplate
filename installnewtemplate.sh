@@ -19,4 +19,4 @@ importnewTemplateToXcode () {
 importnewTemplateToXcode
 
 echo "==> Successfully imported your new template to Xcode ✅"
-echo "==> Your new template has installed on Xcode. In Xcode, select 'New File...' to your new AppDelegate boilerplate template. 🎉"
+echo "==> Your new template has installed on Xcode. In Xcode, select 'New File...' to use your new AppDelegate boilerplate template. 🎉"

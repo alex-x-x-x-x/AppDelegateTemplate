@@ -16,4 +16,4 @@ Run `sh installnewtemplate.sh`
   - Once you've delete the `ApplicationManifestKey` from your project's `Info.plist`, create a new file and select your brand new *AppDelegate.swift boilerplate file*
   - Name it `AppDelegate` in the File placeholder text within _Save as_ which you'll be saving as your brand new `AppDelegate.swift` file.  
  
-<img width="731" alt="Screen Shot 2020-02-05 at 12 31 57 PM" src="https://user-images.githubusercontent.com/21044119/73866927-b535c580-4813-11ea-9beb-456afd90636d.png">
+<img width="730" alt="Screen Shot 2020-02-05 at 4 03 50 PM" src="https://user-images.githubusercontent.com/21044119/73883001-20da5b80-4831-11ea-8cc1-65ebb8b32a35.png">

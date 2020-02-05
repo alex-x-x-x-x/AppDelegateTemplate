@@ -3,7 +3,8 @@
 <img width="191" alt="Screen Shot 2020-02-05 at 12 13 21 PM" src="https://user-images.githubusercontent.com/21044119/73865221-eeb90180-4810-11ea-954c-a5e4bf8d7692.png"> 
 
 ## Installation:
-run `sh installnewtemplate.sh`
+Run `sh installnewtemplate.sh`
+- This command installs the template into your Xcode where you'll be able to select it and use it in your projects in lieu of the newly updated `AppDelegate.swift` that features `SceneDelegate` boilerplate code. 
 
 ## Usage:
 - To use this file as your standard `AppDelegate.swift` file without the SceneDelegate boilerplate do the following:

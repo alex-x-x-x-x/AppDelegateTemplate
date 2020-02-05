@@ -6,7 +6,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Copy AppDelegate boilerplate file template into Xcode template directory
 importnewTemplateToXcode () {
-  echo "==> Copying your Xcode file templates...📝"
+  echo "==> Copying your Xcode file template...📝"
 
   if [ -d "$XCODE_SYR_TEMPLATE_DIR" ]; then
     rm -R "$XCODE_SYR_TEMPLATE_DIR"

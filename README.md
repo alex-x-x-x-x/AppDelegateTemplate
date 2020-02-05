@@ -11,12 +11,11 @@
 
 <img width="732" alt="Screen Shot 2020-02-05 at 12 21 14 PM" src="https://user-images.githubusercontent.com/21044119/73865949-0a70d780-4812-11ea-9f9b-6bf82996c233.png">
 
-### Command-line
+## Command-line
 After cloning this repository, move this directory to the following location:
 - `~/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates`
 
-### Usage:
-
+## Usage:
 - To use this file as your standard `AppDelegate.swift` file without the SceneDelegate boilerplate do the following:
   - Delete the current `AppDelegate.swift` file in your project.
   - Also delete the `SceneDelegate.swift` file. 
